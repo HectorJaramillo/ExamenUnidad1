@@ -1,0 +1,7 @@
+c:\users\dell core i5\source\repos\Examen\Examen\bin\Debug\Examen.exe.config
+c:\users\dell core i5\source\repos\Examen\Examen\bin\Debug\Examen.exe
+c:\users\dell core i5\source\repos\Examen\Examen\bin\Debug\Examen.pdb
+c:\users\dell core i5\source\repos\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+c:\users\dell core i5\source\repos\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+c:\users\dell core i5\source\repos\Examen\Examen\obj\Debug\Examen.exe
+c:\users\dell core i5\source\repos\Examen\Examen\obj\Debug\Examen.pdb
